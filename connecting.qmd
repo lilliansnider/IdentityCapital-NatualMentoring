@@ -1,6 +1,6 @@
 ---
 title: "Connecting Identity Capital and Natural Mentoring"
-date-modified: last-modified
+date-modified: last-modified 
 format: 
   html:
     linkcolor: "#3366CC"

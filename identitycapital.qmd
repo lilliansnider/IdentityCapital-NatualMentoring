@@ -1,6 +1,6 @@
 ---
 title: "Identity Capital: Understanding Personal and Social Resources"
-date-modified: last-modified
+date-modified: last-modified 
 format: 
   html:
     linkcolor: "#3366CC"
