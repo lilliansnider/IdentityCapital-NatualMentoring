@@ -1,0 +1,12 @@
+---
+title: "Create Webpages with Quarto"
+subtitle: "RLadies+ Workshop - March 3, 2026"
+author: "Grace Tompkins, Assistant Professor of Teaching (UBC)"
+format: 
+  revealjs:
+    smaller: true
+    slide-number: true 
+    footer: "© 2026 Grace Tompkins."
+---
+
+## Content coming soon!
